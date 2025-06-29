@@ -30,4 +30,4 @@ public class DiceGame {
 
         scanner.close();
     }
-}
+}　
